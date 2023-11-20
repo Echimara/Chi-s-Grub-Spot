@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "fairplex-wide";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/fairplex-wide-n4.woff") format("woff2");
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+  }
