@@ -506,3 +506,45 @@ h1{
         page-break-after: avoid;
     }
 }
+
+
+.quote-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px; /* Adjust as needed */
+}
+
+.quote-image {
+  width: 100px; /* Adjust image width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.quoter {
+  color: rgb(13, 27, 174);
+  font-weight: bold;
+}
+
+.quote {
+  border: 2px solid rgb(0, 0, 0); /* Adjust border properties as needed */
+  padding: 10px; /* Adjust padding as needed */
+}
+
+.quoter {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.outlined-text {
+  color: transparent; /* Set text color to transparent */
+  text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000; /* Set multiple shadows to create outline effect */
+}
+
