@@ -78,6 +78,16 @@
   display:block; 
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.row {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent wrapping */
+  }
+
+  .column {
+    flex: 1; /* Equal width for each column */
+    margin: 0 10px; /* Adjust margin as needed */
+  }
   </style>
   <title>Home - Chi's Grub Spot</title>
 
@@ -104,40 +114,50 @@
     <a class="home-button" href="/register.html">Join us!</a>
   </header>
 
+  <div style="background-color: #f51656; padding: 20px;">
+    <br><br>
+    <h2 class="section-title" style="text-align: center;">About Us</h2>
+    <p class="content" style="text-align: center;">
+        In the ever-bustling culinary landscape, where time is a precious commodity and schedules are brimming with engagements, imagine a dining experience that transforms the way you savor your meals daily. Welcome to Chi's Grub Spot, a storied eatery with a rich history, offering a unique and hassle-free journey through the flavors of time. From humble beginnings to becoming a beloved culinary destination, Chi's Grub Spot invites you to embark on a culinary adventure with just a fork and a plate. 
+    </p>
+</div>
+
+  
+
+
+
   <section class="home-about">
-    <div class="row column large-9 xlarge-6 xxlarge-4">
-      <h2 class="section-title">About Us</h2>
-      <p class="content">
-        In the ever-bustling culinary landscape, where time is a precious commodity and schedules are brimming with engagements, imagine a dining experience that transforms the way you savor your meals daily. Welcome to Chi's Grub Spot, a storied eatery with a rich history, offering a unique and hassle-free journey through the flavors of time. From humble beginnings to becoming a beloved culinary destination, Chi's Grub Spot invites you to embark on a culinary adventure with just a fork and a plate.      </p>
-    </div>
+
 
     <div class="row medium-up-2 large-up-4">
       <div class="column">
-        <div class="home-about-block">
+        
+          <img src="images/wr-home-block-1.png">
           <h3 class="title icon-download">Download The App</h3>
           <p class="content">App coming soon!</p>
-        </div>
+       
       </div>
-
+    
       <div class="column">
-        <div class="home-about-block">
+        
+        <img src="images/wr-home-block-2.png">
           <h3 class="title icon-unicorn">Request A Package</h3>
           <p class="content">We can get your food to you, in style. Simply request a food-carrying bag with customizable color, size, material, and logo through the app. And boom! Your fresh meal in a unique bag.</p>
-        </div>
+    
       </div>
-
+    
       <div class="column">
-        <div class="home-about-block">
+        <img src="images/wr-home-block-3.png">
           <h3 class="title icon-price">Pick A Price</h3>
           <p class="content">Pick the menu item(s) you're willing to pay for and we'll take care of the rest. The only surge with us is the acceleration you get is with our speedy delivery.</p>
-        </div>
+        
       </div>
-
+    
       <div class="column">
-        <div class="home-about-block">
+          <img src="images/wr-home-block-4.png">
           <h3 class="title icon-success">Speedy Delivery!</h3>
-          <p class="content">After matching with your desired dishes, you’ll be all set. Your food  will arrive shortly and is also available for pickup.</p>
-        </div>
+          <p class="content">After matching with your desired dishes, you’ll be all set. Your food will arrive shortly and is also available for pickup.</p>
+      
       </div>
     </div>
   </section>
@@ -171,6 +191,7 @@
       </div>
     </div>
   </section>
+ 
 
   <footer class="site-footer">
     <div class="row column">
@@ -184,7 +205,7 @@
         </ul>
       </nav>
     </div>
-
+  
     <div class="row column">
       <div class="footer-legal">
         &copy;Chi's Grub Spot Inc<br>
@@ -192,9 +213,12 @@
       </div>
     </div>
   </footer>
+  
+  
+
+  
 
   <script src="js/vendor.js"></script>
-
   <script src="js/main.js"></script>
 </body>
 </html>
