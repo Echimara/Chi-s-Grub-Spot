@@ -22,10 +22,5 @@ Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the j
 - **Community Interaction:** Engage with a vibrant community of food lovers, share your culinary creations, and exchange tips and ideas.
 - **Personalized Profiles:** Create your unique profile to showcase your favorite recipes, culinary achievements, and connect with like-minded individuals.
 
-## Getting Started
-
-To explore Chi's Grub Spot, follow these simple steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/chis-grub-spot.git
+## View Site
+[Here](https://echimara.github.io/Chi-s-Grub-Spot/)
