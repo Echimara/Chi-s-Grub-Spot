@@ -1,4 +1,5 @@
 # Chi's Grub Spot
+![Landing Page](https://raw.github.com/Echimara/Chi-s-Grub-Spot/main/Landing-Page.png)
 
 Welcome to **Chi's Grub Spot**, where flavor meets passion! This README provides an overview of the website, its purpose, features, and how to get started.
 
@@ -24,3 +25,6 @@ Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the j
 
 ## View Site
 [Here](https://echimara.github.io/Chi-s-Grub-Spot/)
+
+![Logo](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Logo.png)
+
