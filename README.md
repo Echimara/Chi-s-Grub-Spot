@@ -1,5 +1,5 @@
 # Chi's Grub Spot
-![Landing Page](https://raw.github.com/Echimara/Chi-s-Grub-Spot/main/Landing-Page.png)
+![Landing Page](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(751).png)
 
 Welcome to **Chi's Grub Spot**, where flavor meets passion! This README provides an overview of the website, its purpose, features, and how to get started.
 
