@@ -26,5 +26,6 @@ Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the j
 ## View Site
 [Here](https://echimara.github.io/Chi-s-Grub-Spot/)
 
-![Logo](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Logo.png)
-
+<p align="center">
+<img src="https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Logo.png" alt="Logo" width="150">
+</p>
