@@ -25,7 +25,7 @@ Here are some updated feature descriptions:
 - **Recipe Showcase:** Explore a rich variety of recipes handpicked by food enthusiasts (just me) that cater to each main food preference.
 - **Food History:** Gain valuable knowledge on the history of three main food choices we still follow today.
 - **Apply:** Join an active community of food enthusiasts and exchange tips, tricks, and ideas with fellow cooking enthusiasts.
-- **FAQ:** Unsure of some commonly sought-after knowledge, visit this page for clarity.
+- **FAQ:** Unsure of some commonly sought-after knowledge? Visit this page for clarity.
   
 ![Food History](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(760).png)
 
