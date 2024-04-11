@@ -13,6 +13,7 @@ Welcome to **Chi's Grub Spot**, where flavor meets passion! This README provides
 6. [Feedback and Support](#feedback-and-support)
 
 ## About Chi's Grub Spot
+![Food History](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(759).png)
 
 Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the joy of savoring delicious meals. Whether you're a seasoned chef or a passionate home cook, our platform aims to inspire, share, and explore the world of gastronomy.
 
@@ -21,7 +22,8 @@ Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the j
 - **Recipe Showcase:** Discover a diverse collection of mouthwatering recipes curated by culinary enthusiasts worldwide.
 - **Cooking Tips and Tricks:** Learn valuable insights, techniques, and hacks from seasoned chefs to enhance your cooking skills.
 - **Community Interaction:** Engage with a vibrant community of food lovers, share your culinary creations, and exchange tips and ideas.
-- **Personalized Profiles:** Create your unique profile to showcase your favorite recipes, culinary achievements, and connect with like-minded individuals.
+- **Personalized Profiles:** Create your unique profile to showcase your favorite recipes, and culinary achievements, and connect with like-minded individuals.
+![Food History](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(760).png)
 
 ## View Site
 [Here](https://echimara.github.io/Chi-s-Grub-Spot/)
