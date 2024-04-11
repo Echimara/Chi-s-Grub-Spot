@@ -19,10 +19,14 @@ Chi's Grub Spot is a culinary haven that celebrates the art of cooking and the j
 
 ## Features
 
-- **Recipe Showcase:** Discover a diverse collection of mouthwatering recipes curated by culinary enthusiasts worldwide.
-- **Cooking Tips and Tricks:** Learn valuable insights, techniques, and hacks from seasoned chefs to enhance your cooking skills.
-- **Community Interaction:** Engage with a vibrant community of food lovers, share your culinary creations, and exchange tips and ideas.
-- **Personalized Profiles:** Create your unique profile to showcase your favorite recipes, and culinary achievements, and connect with like-minded individuals.
+Here are some updated feature descriptions:
+
+- **Home:** Access a central hub where you can navigate through various features, discover new content, and possibly join the crew.
+- **Recipe Showcase:** Explore a rich variety of recipes handpicked by food enthusiasts (just me) that cater to each main food preference.
+- **Food History:** Gain valuable knowledge on the history of three main food choices we still follow today.
+- **Apply:** Join an active community of food enthusiasts and exchange tips, tricks, and ideas with fellow cooking enthusiasts.
+- **FAQ:** Unsure of some commonly sought-after knowledge, visit this page for clarity.
+  
 ![Food History](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(760).png)
 
 ## View Site
