@@ -35,3 +35,9 @@ Here are some updated feature descriptions:
 <p align="center">
 <img src="https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Logo.png" alt="Logo" width="150">
 </p>
+
+<h2 align="center" width="1200px"> Tech Stack </h2> 
+
+<p align="center">
+  <img width="400px" src="https://skillicons.dev/icons?i=js,html,css,vscode,git&perline=10" />
+</p>
