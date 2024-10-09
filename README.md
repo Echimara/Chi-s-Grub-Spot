@@ -1,4 +1,4 @@
-<h2 align="center" width="1200px"> Food Place, by Chi </h2>
+<h2 align="center" width="1200px"> Chi-s-Grub-Spot</h2>
 ![Landing Page](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(751).png)
 
 Welcome to **Chi's Grub Spot**, where flavor meets passion! This README provides an overview of the website, its purpose, features, and how to get started.
