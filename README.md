@@ -1,5 +1,7 @@
-<h2 align="center" width="1200px"> Chi's Grub Spot</h2>
-![Landing Page](https://github.com/Echimara/Chi-s-Grub-Spot/blob/main/Screenshot%20(751).png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Echimara/Chi-s-Grub-Spot/main/Screenshot%20(751).png" alt="Landing Page" width="600"/>
+</p>
+
 
 Welcome to **Chi's Grub Spot**, where flavor meets passion! This README provides an overview of the website, its purpose, features, and how to get started.
 
